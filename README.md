@@ -2,7 +2,7 @@
 
 Submitted by: **Brian Zhang**
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Summary
 
@@ -44,7 +44,12 @@ GIF created with **ScreenToGif**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+**Modular Activity Design:** The app employs a modular design with separate activities for each feature, facilitating easier maintenance and scalability.
+**Explicit Intents for Activity Navigation:** Uses explicit intents to navigate between activities, a core concept for inter-activity communication in Android.
+**Event-Driven Interactions:** Implements event-driven user interactions, such as button clicks to launch different activities, showcasing basic user interaction handling.
+**Utilization of Android and Kotlin Libraries:** Leverages Android's framework and Kotlin's standard library for tasks like generating random colors and handling dates, demonstrating effective use of existing libraries for common development tasks.
+**String Operations and UI Updates:** Demonstrates string manipulation and updates to the UI, key for dynamic content presentation in Android apps.
+**Consistent Coding Practices:** Adheres to consistent coding practices and conventions, improving code readability and maintainability.
 
 ## License
 
